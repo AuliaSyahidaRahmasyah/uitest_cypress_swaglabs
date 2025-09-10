@@ -16,7 +16,7 @@
 ## Bug List
 
 | Test ID        | Bug ID            | Status | Title                                   | Module        | Severity  | Priority | Notes                          |
-|----------------|------------------|--------|-----------------------------------------|---------------|-----------|----------|--------------------------------|
+|----------------|-------------------|--------|-----------------------------------------|---------------|-----------|----------|--------------------------------|
 | TC-CHECKOUT-001 | BUG-CHECKOUT-001 | Open   | Checkout allowed with empty cart        | Cart/Checkout | Critical  | High     | Logical bug: checkout should require at least 1 product |
 
 ---
