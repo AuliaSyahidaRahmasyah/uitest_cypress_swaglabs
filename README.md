@@ -23,4 +23,9 @@ Covers **Cart** and **Checkout** workflows, with detailed bug reports.
 Clone repo:
 ```bash
 git clone https://github.com/username/uitest_cypress_swaglabs.git
+```
+## 🚀 How to Run Script
+Open Cypress Test Runner:
+```bash
 npx cypress open
+npx cypress run
