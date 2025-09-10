@@ -13,6 +13,15 @@
 
 ---
 
+## Summary
+- **Open**: 1  
+- **In Progress**: 0  
+- **Fixed**: 0  
+- **Closed**: 0  
+- **Test Pass Rate**: 0%  
+
+---
+
 ## Bug List
 
 | Test ID        | Bug ID            | Status | Title                                   | Module        | Severity  | Priority | Notes                          |
@@ -21,9 +30,5 @@
 
 ---
 
-## Summary
-- **Open**: 1  
-- **In Progress**: 0  
-- **Fixed**: 0  
-- **Closed**: 0  
-- **Test Pass Rate**: 0%  
+## Bug Documentation
+TC-CHECKOUT-001 - BUG-CHECKOUT-001 : cypress\images\04-Checkout\TC-01-Cart_Checkout.png
